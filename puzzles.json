@@ -2,24 +2,24 @@
   "2026-03-07": {
     "groups": [
       {
-        "name": "Nicknames at 3 Egremont",
+        "name": "That which we call a rose by any other name would smell as sweet",
         "color": "#f4b400",
-        "words": ["JOSH","JOLLY","JERRY","CHOC"]
+        "words": ["BRANSON","BRAMBLE","BRUMBLE","BLEPPA"]
       },
       {
-        "name": "Other Words for Sleeping",
+        "name": "Colgarzo Street Addresses (Duval St, Caswell Ave, Miller St, Barrow St)",
         "color": "#0f9d58",
-        "words": ["KIP","NAP","REST","SHUTEYE"]
+        "words": ["4505","4612","18-20","41"]
       },
       {
-        "name": "Kings of the Childhood Sideline",
+        "name": "The band we are seeing on February 28",
         "color": "#4285f4",
-        "words": ["PETER","ILYA","BERNIE","JOHN"]
+        "words": ["https://open.spotify.com/","track/","2MLHyLy5z5l5YRp7momlgw?si=AY3L0GDuSF2t6L8YXeMaqQ","&utm_source=copy-link"]
       },
       {
-        "name": "Naarm Health Professionals",
+        "name": "On-Screen Icons",
         "color": "#db4437",
-        "words": ["CHICKEN RUN","SIMON","MEESH","JIMMY"]
+        "words": ["ROMAN","BETTY","CARMELA","BUBBLES"]
       }
     ]
   }
