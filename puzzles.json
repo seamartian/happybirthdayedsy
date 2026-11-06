@@ -1,0 +1,26 @@
+{
+  "2026-03-07": {
+    "groups": [
+      {
+        "name": "Nicknames at 3 Egremont",
+        "color": "#f4b400",
+        "words": ["JOSH","JOLLY","JERRY","CHOC"]
+      },
+      {
+        "name": "Other Words for Sleeping",
+        "color": "#0f9d58",
+        "words": ["KIP","NAP","REST","SHUTEYE"]
+      },
+      {
+        "name": "Kings of the Childhood Sideline",
+        "color": "#4285f4",
+        "words": ["PETER","ILYA","BERNIE","JOHN"]
+      },
+      {
+        "name": "Naarm Health Professionals",
+        "color": "#db4437",
+        "words": ["CHICKEN RUN","SIMON","MEESH","JIMMY"]
+      }
+    ]
+  }
+}
