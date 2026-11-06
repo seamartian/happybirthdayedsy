@@ -74,7 +74,7 @@ document.getElementById("mistakes").innerText =
 "Mistakes remaining: " + mistakes;
 
 if(mistakes===0){
-alert("Sowwy \nBetter luck next time");
+alert("Ok \nTry one more time");
 }
 
 clearSelection();
@@ -100,7 +100,7 @@ solvedDiv.appendChild(div);
 removeWords(group.words);
 
 if(solvedGroups.length===4){
-alert("HECK YEAH");
+alert("GOOD JOB BRANSON");
 }
 
 }
