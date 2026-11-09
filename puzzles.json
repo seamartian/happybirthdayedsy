@@ -1,25 +1,28 @@
+
 {
   "2026-03-07": {
     "groups": [
       {
         "name": "That which we call a rose by any other name would smell as sweet",
         "color": "#f4b400",
-        "words": ["BRANSON","BRAMBLE","BRUMBLE","BLEPPA"]
+        "words": ["BRANSON", "BRAMBLE", "BRUMBLE", "BLEPPA"]
       },
       {
         "name": "Colgarzo Street Addresses (Duval St, Caswell Ave, Miller St, Barrow St)",
         "color": "#0f9d58",
-        "words": ["4505","4612","18-20","41"]
+        "words": ["4505", "4612", "18-20", "41"]
       },
       {
         "name": "The band we are seeing on February 28",
         "color": "#4285f4",
-        "words": ["https://open.spotify.com/""track/""2MLHyLy5z5l5YRp7momlgw?si=AY3L0GDuSF2t6L8YXeMaqQ""&utm_source=copy-link"]
+        "words": [
+          "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw?si=AY3L0GDuSF2t6L8YXeMaqQ&utm_source=copy-link"
+        ]
       },
       {
         "name": "On-Screen Icons",
         "color": "#db4437",
-        "words": ["ROMAN","BETTY","CARMELA","BUBBLES"]
+        "words": ["ROMAN", "BETTY", "CARMELA", "BUBBLES"]
       }
     ]
   }
