@@ -5,63 +5,46 @@
 <title>Happy birthday, Edsy</title>
 
 <style>
-body {
-    font-family: Arial;
-    text-align: center;
-    background-image: url('edsy.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    min-height: 100vh;
-    margin: 0;
+body{
+font-family: Arial;
+text-align:center;
+background:#f6f6f6;
 }
 
-/* Main game area */
-.game-container {
-    background: rgba(255, 255, 255, 0.85);
-    max-width: 600px;
-    margin: 40px auto;
-    padding: 25px;
-    border-radius: 15px;
+.grid{
+display:grid;
+grid-template-columns: repeat(4,120px);
+gap:10px;
+justify-content:center;
+margin-top:30px;
 }
 
-/* Puzzle grid */
-.grid {
-    display: grid;
-    grid-template-columns: repeat(4, 120px);
-    gap: 10px;
-    justify-content: center;
-    margin-top: 30px;
+.word{
+padding:15px;
+background:white;
+border-radius:8px;
+cursor:pointer;
+border:2px solid #ddd;
 }
 
-/* Individual words */
-.word {
-    padding: 15px;
-    background: white;
-    border-radius: 8px;
-    cursor: pointer;
-    border: 2px solid #ddd;
+.selected{
+background:#ffd54f;
 }
 
-.selected {
-    background: #ffd54f;
+.group{
+margin:10px auto;
+width:520px;
+padding:10px;
+border-radius:8px;
+color:white;
+font-weight:bold;
 }
 
-.group {
-    margin: 10px auto;
-    width: 520px;
-    padding: 10px;
-    border-radius: 8px;
-    color: white;
-    font-weight: bold;
-}
-
-button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
+button{
+margin-top:20px;
+padding:10px 20px;
+font-size:16px;
+cursor:pointer;
 }
 </style>
 
